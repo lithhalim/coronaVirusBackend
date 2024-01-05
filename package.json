@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/khalid-500/project-file#readme",
   "dependencies": {
-    "@sendgrid/mail": "^7.7.0",
+    "@sendgrid/mail": "^8.0.0",
     "base-64": "^1.0.0",
     "bcrypt": "^5.1.0",
     "cookie-parser": "^1.4.6",
@@ -32,7 +32,7 @@
     "pg": "^8.8.0",
     "sequelize": "^6.25.5",
     "socket.io": "4.4.1",
-    "sqlite3": "^5.1.2",
+    "sqlite3": "^5.1.7",
     "stripe": "^10.17.0"
   },
   "devDependencies": {
